@@ -6,8 +6,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "Frequency Counter")
-		(date "2025-11-19")
-		(rev "1.0")
+		(date "2025-12-25")
+		(rev "2.0-draft")
 		(company "vladaviedov.org")
 		(comment 1 "Maximum Precision (125 mHz ~ 325 MHz): 62.5 mHz")
 		(comment 2 "Frequency Range: 62.5 mHz - 325 MHz")
@@ -763,11 +763,12 @@
 	)
 	(text "32-bit Serializer"
 		(exclude_from_sim no)
-		(at 23.622 15.494 0)
+		(at 15.24 15.24 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
+			(justify left)
 		)
 		(uuid "5c4eeb6f-6799-4897-9f6c-de4f07809f98")
 	)

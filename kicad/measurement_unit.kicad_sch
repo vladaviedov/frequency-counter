@@ -6,8 +6,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "Frequency Counter")
-		(date "2025-11-19")
-		(rev "1.0")
+		(date "2025-12-25")
+		(rev "2.0-draft")
 		(company "vladaviedov.org")
 		(comment 1 "Maximum Precision (125 mHz ~ 325 MHz): 62.5 mHz")
 		(comment 2 "Frequency Range: 62.5 mHz - 325 MHz")
@@ -1751,21 +1751,23 @@
 	)
 	(text "High Speed Digital (>150 MHz)"
 		(exclude_from_sim no)
-		(at 31.75 33.02 0)
+		(at 16.51 33.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
+			(justify left)
 		)
 		(uuid "118bc3d3-6a21-4862-bd96-1efd53ee7b48")
 	)
 	(text "Misc"
 		(exclude_from_sim no)
-		(at 46.482 137.414 0)
+		(at 44.45 137.414 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
+			(justify left)
 		)
 		(uuid "384b491d-e268-4d6a-8fd5-384024cf7c89")
 	)
@@ -1802,11 +1804,12 @@
 	)
 	(text "30-bit Counter Module"
 		(exclude_from_sim no)
-		(at 158.75 33.274 0)
+		(at 147.32 33.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
+			(justify left)
 		)
 		(uuid "b908815e-19b0-4d3f-9261-d8986ac272e1")
 	)
