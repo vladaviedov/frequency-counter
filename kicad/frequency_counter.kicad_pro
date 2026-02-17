@@ -519,7 +519,17 @@
       "version": 4
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "/Frontend/CH_A": [
+        "RF_Z50"
+      ],
+      "/Frontend/CH_B": [
+        "RF_Z50"
+      ],
+      "/Frontend/RF": [
+        "RF_Z50"
+      ]
+    },
     "netclass_patterns": []
   },
   "pcbnew": {

@@ -6,7 +6,7 @@
 	(paper "USLetter")
 	(title_block
 		(title "Frequency Counter")
-		(date "2025-12-25")
+		(date "2026-02-17")
 		(rev "2.0-draft")
 		(company "vladaviedov.org")
 		(comment 1 "Maximum Precision (125 mHz ~ 325 MHz): 62.5 mHz")
@@ -3927,6 +3927,17 @@
 		)
 		(uuid "fe030e3d-1ae1-41ed-aa5c-415a7be0bfd4")
 	)
+	(hierarchical_label "CH_SEL"
+		(shape input)
+		(at 118.11 25.4 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "170190ce-7659-4b86-919e-47d30433204d")
+	)
 	(hierarchical_label "GATE"
 		(shape input)
 		(at 25.4 67.31 180)
@@ -3960,7 +3971,18 @@
 		)
 		(uuid "3ed4376c-3bf9-4aad-b0df-a7544d418186")
 	)
-	(hierarchical_label "CLK"
+	(hierarchical_label "CLK_B"
+		(shape input)
+		(at 118.11 22.86 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "45181992-b6d5-432e-b248-740955207f0a")
+	)
+	(hierarchical_label "CLK_A"
 		(shape input)
 		(at 25.4 62.23 180)
 		(effects
