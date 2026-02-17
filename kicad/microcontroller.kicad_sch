@@ -1718,6 +1718,16 @@
 	)
 	(wire
 		(pts
+			(xy 62.23 74.93) (xy 64.77 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40d74f70-1130-43b7-b155-ae451b60c8b5")
+	)
+	(wire
+		(pts
 			(xy 46.99 29.21) (xy 21.59 29.21)
 		)
 		(stroke
@@ -1955,6 +1965,16 @@
 			(type default)
 		)
 		(uuid "af8e22d4-f288-47d0-b7c2-92fca72e14b0")
+	)
+	(wire
+		(pts
+			(xy 62.23 80.01) (xy 64.77 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b32dfb7a-c792-48c0-88fa-5599fa59c8ec")
 	)
 	(wire
 		(pts
@@ -2229,6 +2249,17 @@
 		)
 		(uuid "18701918-3cee-4734-ad26-0e7ada710c95")
 	)
+	(hierarchical_label "MU_CH_SEL"
+		(shape output)
+		(at 64.77 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1c57c3af-b787-4c28-9983-9891b06a92f3")
+	)
 	(hierarchical_label "S_CLK"
 		(shape output)
 		(at 64.77 54.61 0)
@@ -2240,7 +2271,7 @@
 		)
 		(uuid "491d7a5b-e4b3-4052-85e2-380fafbfb297")
 	)
-	(hierarchical_label "IO_DIV_B"
+	(hierarchical_label "IO_TRIG"
 		(shape input)
 		(at 64.77 80.01 0)
 		(effects
@@ -2295,17 +2326,6 @@
 		)
 		(uuid "9cd5ce03-644c-4e70-bfe2-c11fd1b6edc5")
 	)
-	(hierarchical_label "IO_HOLD_BTN"
-		(shape input)
-		(at 64.77 87.63 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ada20933-11bb-4213-a537-f361beedeedb")
-	)
 	(hierarchical_label "REF_DIV[0..2]"
 		(shape output)
 		(at 85.09 49.53 0)
@@ -2339,7 +2359,7 @@
 		)
 		(uuid "e7c50c2b-0f5f-4413-9092-edacc2b8d2fd")
 	)
-	(hierarchical_label "IO_DIV_A"
+	(hierarchical_label "IO_SEL"
 		(shape input)
 		(at 64.77 74.93 0)
 		(effects
