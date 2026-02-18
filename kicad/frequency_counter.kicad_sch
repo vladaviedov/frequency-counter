@@ -2606,6 +2606,16 @@
 	)
 	(wire
 		(pts
+			(xy 74.93 129.54) (xy 74.93 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c1c06d2-2e77-4458-87ba-01003c64765e")
+	)
+	(wire
+		(pts
 			(xy 171.45 33.02) (xy 140.97 33.02)
 		)
 		(stroke
@@ -2656,6 +2666,16 @@
 	)
 	(wire
 		(pts
+			(xy 74.93 115.57) (xy 31.75 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2aae9b0b-9113-4b0e-908a-5d856afcce38")
+	)
+	(wire
+		(pts
 			(xy 215.9 46.99) (xy 215.9 49.53)
 		)
 		(stroke
@@ -2703,6 +2723,16 @@
 			(type default)
 		)
 		(uuid "3ea6d9b6-4abe-4585-b3ad-4eca655d2599")
+	)
+	(wire
+		(pts
+			(xy 31.75 39.37) (xy 52.07 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "401da521-6198-4ff8-addb-5f8d7206af7d")
 	)
 	(wire
 		(pts
@@ -2786,6 +2816,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 39.37) (xy 52.07 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5788b0b2-648d-44ad-805a-24a453b2a333")
+	)
+	(wire
+		(pts
 			(xy 228.6 26.67) (xy 228.6 29.21)
 		)
 		(stroke
@@ -2856,7 +2896,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 161.29) (xy 60.96 161.29)
+			(xy 52.07 161.29) (xy 58.42 161.29)
 		)
 		(stroke
 			(width 0)
@@ -3006,6 +3046,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 115.57) (xy 31.75 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7da1b4c4-ef66-464b-b40c-617ba40e7ff8")
+	)
+	(wire
+		(pts
 			(xy 104.14 96.52) (xy 104.14 101.6)
 		)
 		(stroke
@@ -3013,6 +3063,16 @@
 			(type default)
 		)
 		(uuid "7f8b4dee-eb13-4ba9-b48e-2e9ce61649e5")
+	)
+	(wire
+		(pts
+			(xy 72.39 129.54) (xy 74.93 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7fdebe1f-ef6e-4d09-93ca-09dcefb2a2d5")
 	)
 	(wire
 		(pts
@@ -3596,7 +3656,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 161.29) (xy 60.96 138.43)
+			(xy 58.42 161.29) (xy 58.42 138.43)
 		)
 		(stroke
 			(width 0)
@@ -6899,7 +6959,7 @@
 			)
 		)
 		(pin "PWR_AUX" input
-			(at 60.96 138.43 270)
+			(at 58.42 138.43 270)
 			(uuid "8eede2d9-161c-4390-a7e7-7b306a082164")
 			(effects
 				(font
@@ -6916,6 +6976,16 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(pin "REF_2V5" passive
+			(at 72.39 129.54 0)
+			(uuid "2e1e5fbc-75d7-47f8-99e5-45e7d6196c38")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances

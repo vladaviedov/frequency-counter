@@ -208,7 +208,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv3601.pdf"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/812/NC%28S%2CV%292250%2C2.pdf"
 			(at -21.082 30.861 0)
 			(effects
 				(font
