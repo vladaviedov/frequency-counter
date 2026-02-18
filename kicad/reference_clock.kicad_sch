@@ -2870,7 +2870,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/kyocera-avx/KGM05AR51C104KH/563236"
+		(property "Supplier" ""
+			(at 21.59 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM05AR51C104KH"
 			(at 21.59 123.19 0)
 			(effects
 				(font
@@ -2946,7 +2955,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/nexperia-usa-inc/74AHC1G4210GWH/7495486"
+		(property "Supplier" ""
+			(at 49.53 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "74AHC1G4210GWH"
 			(at 49.53 40.64 0)
 			(effects
 				(font
@@ -3100,7 +3118,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/RC0402JR-132K2L/13694130"
+		(property "Supplier" ""
+			(at 36.83 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-132K2L"
 			(at 36.83 55.88 0)
 			(effects
 				(font
@@ -3377,7 +3404,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/kyocera-avx/KGM05AR51C104KH/563236"
+		(property "Supplier" ""
+			(at 97.79 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM05AR51C104KH"
 			(at 97.79 62.23 0)
 			(effects
 				(font
@@ -3522,7 +3558,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/nexperia-usa-inc/74HC251PW-118/1230237"
+		(property "Supplier" ""
+			(at 69.85 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "74HC251PW,118"
 			(at 69.85 128.27 0)
 			(effects
 				(font
@@ -3643,7 +3688,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/74VHC4040FT/5155784"
+		(property "Supplier" ""
+			(at 120.65 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "74VHC4040FT"
 			(at 120.65 50.8 0)
 			(effects
 				(font
@@ -4171,7 +4225,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/kyocera-avx/KGM05AR51C104KH/563236"
+		(property "Supplier" ""
+			(at 64.77 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM05AR51C104KH"
 			(at 64.77 64.77 0)
 			(effects
 				(font

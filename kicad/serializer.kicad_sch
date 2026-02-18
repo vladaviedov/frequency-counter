@@ -2832,7 +2832,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/kyocera-avx/KGM05AR51C104KH/563236"
+		(property "Supplier" ""
+			(at 66.04 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM05AR51C104KH"
 			(at 66.04 66.04 0)
 			(effects
 				(font
@@ -3043,7 +3052,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/kyocera-avx/KGM05AR51C104KH/563236"
+		(property "Supplier" ""
+			(at 182.88 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM05AR51C104KH"
 			(at 182.88 64.77 0)
 			(effects
 				(font
@@ -3188,7 +3206,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/kyocera-avx/KGM05AR51C104KH/563236"
+		(property "Supplier" ""
+			(at 124.46 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM05AR51C104KH"
 			(at 124.46 66.04 0)
 			(effects
 				(font
@@ -3597,7 +3624,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/nexperia-usa-inc/74HC165D-653/763013"
+		(property "Supplier" ""
+			(at 50.8 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "74HC165D,653"
 			(at 50.8 52.07 0)
 			(effects
 				(font
@@ -3982,7 +4018,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/nexperia-usa-inc/74HC165D-653/763013"
+		(property "Supplier" ""
+			(at 167.64 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "74HC165D,653"
 			(at 167.64 52.07 0)
 			(effects
 				(font
@@ -4103,7 +4148,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/kyocera-avx/KGM05AR51C104KH/563236"
+		(property "Supplier" ""
+			(at 241.3 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM05AR51C104KH"
 			(at 241.3 64.77 0)
 			(effects
 				(font
@@ -4182,7 +4236,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/nexperia-usa-inc/74HC165D-653/763013"
+		(property "Supplier" ""
+			(at 226.06 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "74HC165D,653"
 			(at 226.06 52.07 0)
 			(effects
 				(font
@@ -4501,7 +4564,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/nexperia-usa-inc/74HC165D-653/763013"
+		(property "Supplier" ""
+			(at 109.22 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "74HC165D,653"
 			(at 109.22 52.07 0)
 			(effects
 				(font

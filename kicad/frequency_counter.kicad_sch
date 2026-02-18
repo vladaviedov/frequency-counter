@@ -2401,8 +2401,54 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 209.55 127)
+		(end 265.43 170.18)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 0fe16c18-e788-4a89-ad6e-04e6e4ccc342)
+	)
+	(rectangle
+		(start 209.55 86.36)
+		(end 265.43 123.19)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 9251f178-a041-48e0-a715-3af21644e3ed)
+	)
+	(text "Mechanical"
+		(exclude_from_sim no)
+		(at 209.55 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b4bd8ede-231f-4620-9fa7-63a07649349d")
+	)
+	(text "EMI"
+		(exclude_from_sim no)
+		(at 209.55 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d86fda0a-e845-4152-b53e-6ea74708b0be")
+	)
 	(junction
-		(at 215.9 29.21)
+		(at 215.9 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1cf784de-d0a6-425a-af6b-6f73faf102b9")
@@ -2432,7 +2478,7 @@
 		(uuid "4e05f7f6-d68c-4566-a8fe-f12423fe39bf")
 	)
 	(junction
-		(at 228.6 29.21)
+		(at 228.6 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "512dfe3e-fe5d-48c5-8e72-0b38b44d2e6d")
@@ -2456,13 +2502,13 @@
 		(uuid "92bb2ead-3a05-4d84-b4c2-55ce5175bfad")
 	)
 	(junction
-		(at 241.3 29.21)
+		(at 241.3 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a644cb1a-68ed-4f24-8b04-8620797f31c1")
 	)
 	(junction
-		(at 215.9 49.53)
+		(at 215.9 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b9dc9d37-ed2b-4cb7-9b85-9c37c667ce9b")
@@ -2480,13 +2526,13 @@
 		(uuid "d2ecf6d5-0d1a-48d2-aff0-173f3edb89e6")
 	)
 	(junction
-		(at 241.3 49.53)
+		(at 241.3 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f1a7519a-1dc4-4f8b-b888-35cb44bad3a2")
 	)
 	(junction
-		(at 228.6 49.53)
+		(at 228.6 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f71dfda7-ff19-4cf3-9080-c4c8f2e7c91a")
@@ -2553,7 +2599,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 49.53) (xy 254 46.99)
+			(xy 254 160.02) (xy 254 157.48)
 		)
 		(stroke
 			(width 0)
@@ -2563,7 +2609,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 29.21) (xy 215.9 31.75)
+			(xy 215.9 138.43) (xy 215.9 140.97)
 		)
 		(stroke
 			(width 0)
@@ -2623,7 +2669,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 29.21) (xy 241.3 29.21)
+			(xy 228.6 138.43) (xy 241.3 138.43)
 		)
 		(stroke
 			(width 0)
@@ -2693,7 +2739,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 46.99) (xy 215.9 49.53)
+			(xy 215.9 157.48) (xy 215.9 160.02)
 		)
 		(stroke
 			(width 0)
@@ -2703,7 +2749,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 29.21) (xy 254 29.21)
+			(xy 241.3 138.43) (xy 254 138.43)
 		)
 		(stroke
 			(width 0)
@@ -2753,7 +2799,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 26.67) (xy 215.9 29.21)
+			(xy 215.9 135.89) (xy 215.9 138.43)
 		)
 		(stroke
 			(width 0)
@@ -2803,7 +2849,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 49.53) (xy 215.9 52.07)
+			(xy 215.9 160.02) (xy 215.9 162.56)
 		)
 		(stroke
 			(width 0)
@@ -2853,7 +2899,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 26.67) (xy 228.6 29.21)
+			(xy 228.6 135.89) (xy 228.6 138.43)
 		)
 		(stroke
 			(width 0)
@@ -2913,7 +2959,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 26.67) (xy 241.3 29.21)
+			(xy 241.3 135.89) (xy 241.3 138.43)
 		)
 		(stroke
 			(width 0)
@@ -2933,7 +2979,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 29.21) (xy 228.6 29.21)
+			(xy 215.9 138.43) (xy 228.6 138.43)
 		)
 		(stroke
 			(width 0)
@@ -3183,7 +3229,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 49.53) (xy 254 49.53)
+			(xy 241.3 160.02) (xy 254 160.02)
 		)
 		(stroke
 			(width 0)
@@ -3203,7 +3249,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 49.53) (xy 228.6 49.53)
+			(xy 215.9 160.02) (xy 228.6 160.02)
 		)
 		(stroke
 			(width 0)
@@ -3283,7 +3329,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 49.53) (xy 241.3 49.53)
+			(xy 228.6 160.02) (xy 241.3 160.02)
 		)
 		(stroke
 			(width 0)
@@ -3433,7 +3479,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 92.71) (xy 236.22 95.25)
+			(xy 233.68 113.03) (xy 233.68 115.57)
 		)
 		(stroke
 			(width 0)
@@ -3473,7 +3519,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 29.21) (xy 254 26.67)
+			(xy 254 138.43) (xy 254 135.89)
 		)
 		(stroke
 			(width 0)
@@ -3593,7 +3639,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 46.99) (xy 241.3 49.53)
+			(xy 241.3 157.48) (xy 241.3 160.02)
 		)
 		(stroke
 			(width 0)
@@ -3603,7 +3649,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 46.99) (xy 228.6 49.53)
+			(xy 228.6 157.48) (xy 228.6 160.02)
 		)
 		(stroke
 			(width 0)
@@ -3963,7 +4009,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/rf-solutions/CON-SMA-EDGE-S/5845767"
+		(property "Supplier" ""
+			(at 20.32 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CON-SMA-EDGE-S"
 			(at 20.32 52.07 0)
 			(effects
 				(font
@@ -3989,7 +4044,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 254 44.45 0)
+		(at 254 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -3998,7 +4053,7 @@
 		(fields_autoplaced yes)
 		(uuid "0c6e0263-3cc1-4d5a-a651-fec1cf46ea82")
 		(property "Reference" "H108"
-			(at 256.54 41.9099 0)
+			(at 256.54 152.3999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4007,7 +4062,7 @@
 			)
 		)
 		(property "Value" "M2"
-			(at 256.54 44.4499 0)
+			(at 256.54 154.9399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4016,7 +4071,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad"
-			(at 254 44.45 0)
+			(at 254 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4025,7 +4080,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 254 44.45 0)
+			(at 254 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4034,7 +4089,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 254 44.45 0)
+			(at 254 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4243,7 +4298,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/RC0402JR-135K1L/17017755"
+		(property "Supplier" ""
+			(at 67.31 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-135K1L"
 			(at 67.31 182.88 0)
 			(effects
 				(font
@@ -4321,7 +4385,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/rf-solutions/CON-SMA-EDGE-S/5845767"
+		(property "Supplier" ""
+			(at 20.32 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CON-SMA-EDGE-S"
 			(at 20.32 27.94 0)
 			(effects
 				(font
@@ -4531,7 +4604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "Generic"
+		(property "Supplier" ""
 			(at 76.2 96.52 0)
 			(effects
 				(font
@@ -4563,7 +4636,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 215.9 44.45 0)
+		(at 215.9 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -4572,7 +4645,7 @@
 		(fields_autoplaced yes)
 		(uuid "4b59e7a3-6fca-4775-8bbd-312b1fe994c5")
 		(property "Reference" "H105"
-			(at 218.44 41.9099 0)
+			(at 218.44 152.3999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4581,7 +4654,7 @@
 			)
 		)
 		(property "Value" "M2"
-			(at 218.44 44.4499 0)
+			(at 218.44 154.9399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4590,7 +4663,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad"
-			(at 215.9 44.45 0)
+			(at 215.9 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4599,7 +4672,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 215.9 44.45 0)
+			(at 215.9 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4608,7 +4681,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 215.9 44.45 0)
+			(at 215.9 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4758,7 +4831,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/harvatek-corporation/B1911UY-20D000114U1930/15519976"
+		(property "Supplier" ""
+			(at 163.83 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "B1911UY--20D000114U1930"
 			(at 163.83 107.95 90)
 			(effects
 				(font
@@ -4784,7 +4866,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 241.3 24.13 0)
+		(at 241.3 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -4793,7 +4875,7 @@
 		(fields_autoplaced yes)
 		(uuid "59366ffb-a819-47ff-9237-d66e38a09453")
 		(property "Reference" "H103"
-			(at 243.84 21.5899 0)
+			(at 243.84 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4802,7 +4884,7 @@
 			)
 		)
 		(property "Value" "M3"
-			(at 243.84 24.1299 0)
+			(at 243.84 133.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4811,7 +4893,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
-			(at 241.3 24.13 0)
+			(at 241.3 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4820,7 +4902,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 241.3 24.13 0)
+			(at 241.3 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4829,7 +4911,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 241.3 24.13 0)
+			(at 241.3 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4919,7 +5001,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 228.6 44.45 0)
+		(at 228.6 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -4928,7 +5010,7 @@
 		(fields_autoplaced yes)
 		(uuid "7c1d07e7-4ca2-4243-9a31-01df64da9057")
 		(property "Reference" "H106"
-			(at 231.14 41.9099 0)
+			(at 231.14 152.3999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4937,7 +5019,7 @@
 			)
 		)
 		(property "Value" "M2"
-			(at 231.14 44.4499 0)
+			(at 231.14 154.9399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4946,7 +5028,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad"
-			(at 228.6 44.45 0)
+			(at 228.6 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4955,7 +5037,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 228.6 44.45 0)
+			(at 228.6 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4964,7 +5046,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 228.6 44.45 0)
+			(at 228.6 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5188,7 +5270,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 241.3 44.45 0)
+		(at 241.3 154.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -5197,7 +5279,7 @@
 		(fields_autoplaced yes)
 		(uuid "89fcb525-37be-4c50-9eaf-f9bb73d76328")
 		(property "Reference" "H107"
-			(at 243.84 41.9099 0)
+			(at 243.84 152.3999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5206,7 +5288,7 @@
 			)
 		)
 		(property "Value" "M2"
-			(at 243.84 44.4499 0)
+			(at 243.84 154.9399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5215,7 +5297,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad"
-			(at 241.3 44.45 0)
+			(at 241.3 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5224,7 +5306,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 241.3 44.45 0)
+			(at 241.3 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5233,7 +5315,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 241.3 44.45 0)
+			(at 241.3 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5308,7 +5390,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/RC0402JR-13220RL/14008194"
+		(property "Supplier" ""
+			(at 179.07 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-13220RL"
 			(at 179.07 97.79 0)
 			(effects
 				(font
@@ -5387,7 +5478,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/RC0402JR-135K1L/17017755"
+		(property "Supplier" ""
+			(at 54.61 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-135K1L"
 			(at 54.61 182.88 0)
 			(effects
 				(font
@@ -5464,7 +5564,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/gct/USB4125-GF-A/13547388"
+		(property "Supplier" ""
+			(at 36.83 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "USB4125-GF-A"
 			(at 36.83 168.91 0)
 			(effects
 				(font
@@ -5567,7 +5676,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/harvatek-corporation/B1911NG-20D000214U1930/15519989"
+		(property "Supplier" ""
+			(at 179.07 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "B1911NG--20D000214U1930"
 			(at 179.07 107.95 90)
 			(effects
 				(font
@@ -5737,7 +5855,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 215.9 24.13 0)
+		(at 215.9 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -5746,7 +5864,7 @@
 		(fields_autoplaced yes)
 		(uuid "9f49b13c-3df2-4430-9133-a205f78a31f9")
 		(property "Reference" "H101"
-			(at 218.44 21.5899 0)
+			(at 218.44 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5755,7 +5873,7 @@
 			)
 		)
 		(property "Value" "M3"
-			(at 218.44 24.1299 0)
+			(at 218.44 133.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5764,7 +5882,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
-			(at 215.9 24.13 0)
+			(at 215.9 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5773,7 +5891,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 215.9 24.13 0)
+			(at 215.9 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5782,7 +5900,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 215.9 24.13 0)
+			(at 215.9 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5804,7 +5922,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 254 24.13 0)
+		(at 254 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -5813,7 +5931,7 @@
 		(fields_autoplaced yes)
 		(uuid "a74f24f8-1acf-400d-a5c4-0fa7ba45707a")
 		(property "Reference" "H104"
-			(at 256.54 21.5899 0)
+			(at 256.54 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5822,7 +5940,7 @@
 			)
 		)
 		(property "Value" "M3"
-			(at 256.54 24.1299 0)
+			(at 256.54 133.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5831,7 +5949,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
-			(at 254 24.13 0)
+			(at 254 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5840,7 +5958,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 254 24.13 0)
+			(at 254 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5849,7 +5967,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 254 24.13 0)
+			(at 254 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6000,7 +6118,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/RC0402JR-13220RL/14008194"
+		(property "Supplier" ""
+			(at 163.83 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-13220RL"
 			(at 163.83 97.79 0)
 			(effects
 				(font
@@ -6026,7 +6153,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 228.6 24.13 0)
+		(at 228.6 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -6035,7 +6162,7 @@
 		(fields_autoplaced yes)
 		(uuid "c1c1a303-1d29-4c2e-85ba-4bdf582d99e9")
 		(property "Reference" "H102"
-			(at 231.14 21.5899 0)
+			(at 231.14 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6044,7 +6171,7 @@
 			)
 		)
 		(property "Value" "M3"
-			(at 231.14 24.1299 0)
+			(at 231.14 133.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6053,7 +6180,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad"
-			(at 228.6 24.13 0)
+			(at 228.6 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6062,7 +6189,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 228.6 24.13 0)
+			(at 228.6 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6071,7 +6198,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 228.6 24.13 0)
+			(at 228.6 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6093,7 +6220,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 215.9 52.07 0)
+		(at 215.9 162.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6101,7 +6228,7 @@
 		(dnp no)
 		(uuid "c9519df5-4985-4f89-af5e-e7fb6a5e250c")
 		(property "Reference" "#PWR0116"
-			(at 215.9 58.42 0)
+			(at 215.9 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6110,7 +6237,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 215.9 57.15 0)
+			(at 215.9 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6118,7 +6245,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 215.9 52.07 0)
+			(at 215.9 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6127,7 +6254,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 215.9 52.07 0)
+			(at 215.9 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6136,7 +6263,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 215.9 52.07 0)
+			(at 215.9 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6529,7 +6656,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 236.22 95.25 0)
+		(at 233.68 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6538,7 +6665,7 @@
 		(fields_autoplaced yes)
 		(uuid "fa8fe3ee-639a-4817-b154-8efd7581d023")
 		(property "Reference" "#PWR0115"
-			(at 236.22 101.6 0)
+			(at 233.68 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6547,7 +6674,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 236.22 100.33 0)
+			(at 233.68 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6555,7 +6682,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 236.22 95.25 0)
+			(at 233.68 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6564,7 +6691,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 236.22 95.25 0)
+			(at 233.68 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6573,7 +6700,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 236.22 95.25 0)
+			(at 233.68 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6595,7 +6722,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 215.9 31.75 0)
+		(at 215.9 140.97 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6603,7 +6730,7 @@
 		(dnp no)
 		(uuid "fb4203ff-e45b-4027-9dcf-2e5cc1cf19e6")
 		(property "Reference" "#PWR0114"
-			(at 215.9 38.1 0)
+			(at 215.9 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6612,7 +6739,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 215.9 36.83 0)
+			(at 215.9 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6620,7 +6747,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 215.9 31.75 0)
+			(at 215.9 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6629,7 +6756,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 215.9 31.75 0)
+			(at 215.9 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6638,7 +6765,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 215.9 31.75 0)
+			(at 215.9 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6660,7 +6787,7 @@
 	)
 	(symbol
 		(lib_id "Device:RFShield_TwoPieces")
-		(at 236.22 82.55 0)
+		(at 233.68 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6669,7 +6796,7 @@
 		(fields_autoplaced yes)
 		(uuid "fc774d5b-3f6b-485a-ae63-cb405c403382")
 		(property "Reference" "SH101"
-			(at 255.27 79.3749 0)
+			(at 252.73 99.6949 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6678,7 +6805,7 @@
 			)
 		)
 		(property "Value" "SMS-202"
-			(at 255.27 81.9149 0)
+			(at 252.73 102.2349 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6687,7 +6814,7 @@
 			)
 		)
 		(property "Footprint" "RF_Shielding:Laird_Technologies_BMI-S-202-F_16.50x16.50mm"
-			(at 236.22 85.09 0)
+			(at 233.68 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6696,7 +6823,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 236.22 85.09 0)
+			(at 233.68 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6705,7 +6832,7 @@
 			)
 		)
 		(property "Description" "Two-piece EMI RF shielding cabinet"
-			(at 236.22 82.55 0)
+			(at 233.68 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6713,8 +6840,17 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/leader-tech-inc/SMS-201F/7203528"
-			(at 236.22 82.55 0)
+		(property "Supplier" ""
+			(at 233.68 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMS-201F"
+			(at 233.68 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)

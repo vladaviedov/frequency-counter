@@ -1229,167 +1229,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:C_Polarized"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0.254)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "C"
-				(at 0.635 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "C_Polarized"
-				(at 0.635 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 0.9652 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Polarized capacitor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "cap capacitor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "CP_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "C_Polarized_0_1"
-				(rectangle
-					(start -2.286 0.508)
-					(end 2.286 1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.778 2.286) (xy -0.762 2.286)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 2.794) (xy -1.27 1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 2.286 -0.508)
-					(end -2.286 -1.016)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-			)
-			(symbol "C_Polarized_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 2.794)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 2.794)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:D_Schottky"
 			(pin_numbers
 				(hide yes)
@@ -2730,8 +2569,8 @@
 		)
 	)
 	(rectangle
-		(start 107.95 76.2)
-		(end 177.8 130.81)
+		(start 111.76 76.2)
+		(end 181.61 130.81)
 		(stroke
 			(width 0.254)
 			(type solid)
@@ -2743,7 +2582,7 @@
 	)
 	(rectangle
 		(start 19.05 76.2)
-		(end 106.68 130.81)
+		(end 110.49 130.81)
 		(stroke
 			(width 0.254)
 			(type solid)
@@ -2801,7 +2640,7 @@
 	)
 	(text "Voltage Reference (2.5 V)"
 		(exclude_from_sim no)
-		(at 107.95 74.93 0)
+		(at 111.76 74.93 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2821,19 +2660,8 @@
 		)
 		(uuid "c80a3d8d-0804-4e63-8dc5-06b40226f6cd")
 	)
-	(text "ICHG = 0.5A\nIncrease R703 to drop current"
-		(exclude_from_sim no)
-		(at 21.082 69.088 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f5e2bb34-3bb5-4fa3-8156-a02e51f89b83")
-	)
 	(junction
-		(at 162.56 104.14)
+		(at 166.37 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0a9b6060-67dd-424d-a0ae-e4faf2f01d17")
@@ -2881,7 +2709,7 @@
 		(uuid "5153bb6d-05d8-450e-ae40-0ab7f81def7c")
 	)
 	(junction
-		(at 115.57 101.6)
+		(at 119.38 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "55f5654c-5d21-4d2c-b5e0-f35b7cf67e6c")
@@ -2923,7 +2751,7 @@
 		(uuid "a628020b-93f0-48f6-bb57-95cf7a9f3ffa")
 	)
 	(junction
-		(at 154.94 104.14)
+		(at 158.75 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cdf2668e-f02b-4b5a-82c4-55e863354127")
@@ -2935,7 +2763,7 @@
 		(uuid "e3c94ec0-3b37-48fe-8dd2-262adb042dfd")
 	)
 	(junction
-		(at 142.24 93.98)
+		(at 146.05 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ec3aec81-6fdd-48bf-8501-3d895808190a")
@@ -2958,7 +2786,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 104.14) (xy 162.56 104.14)
+			(xy 158.75 104.14) (xy 166.37 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2968,7 +2796,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 104.14) (xy 152.4 104.14)
+			(xy 158.75 104.14) (xy 156.21 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2988,7 +2816,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 110.49) (xy 95.25 110.49)
+			(xy 95.25 110.49) (xy 99.06 110.49)
 		)
 		(stroke
 			(width 0)
@@ -3008,7 +2836,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 96.52) (xy 142.24 93.98)
+			(xy 146.05 96.52) (xy 146.05 93.98)
 		)
 		(stroke
 			(width 0)
@@ -3018,7 +2846,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 110.49) (xy 80.01 113.03)
+			(xy 66.04 110.49) (xy 66.04 113.03)
 		)
 		(stroke
 			(width 0)
@@ -3038,7 +2866,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 88.9) (xy 115.57 91.44)
+			(xy 119.38 88.9) (xy 119.38 91.44)
 		)
 		(stroke
 			(width 0)
@@ -3048,7 +2876,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 106.68) (xy 134.62 106.68)
+			(xy 140.97 106.68) (xy 138.43 106.68)
 		)
 		(stroke
 			(width 0)
@@ -3078,7 +2906,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 104.14) (xy 162.56 106.68)
+			(xy 166.37 104.14) (xy 166.37 106.68)
 		)
 		(stroke
 			(width 0)
@@ -3105,6 +2933,16 @@
 			(type default)
 		)
 		(uuid "323ba2fb-37f0-4b91-8d89-da07f5676820")
+	)
+	(wire
+		(pts
+			(xy 80.01 110.49) (xy 87.63 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "354f66e2-a75e-42cc-9d27-9cc4de4f1a41")
 	)
 	(wire
 		(pts
@@ -3148,17 +2986,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 110.49) (xy 83.82 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3c879476-3d18-4591-82f2-3b59e4ce9107")
-	)
-	(wire
-		(pts
-			(xy 162.56 114.3) (xy 162.56 116.84)
+			(xy 166.37 114.3) (xy 166.37 116.84)
 		)
 		(stroke
 			(width 0)
@@ -3228,7 +3056,7 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 120.65) (xy 80.01 123.19)
+			(xy 66.04 120.65) (xy 66.04 123.19)
 		)
 		(stroke
 			(width 0)
@@ -3248,7 +3076,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 91.44) (xy 142.24 93.98)
+			(xy 146.05 91.44) (xy 146.05 93.98)
 		)
 		(stroke
 			(width 0)
@@ -3278,7 +3106,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 101.6) (xy 137.16 101.6)
+			(xy 119.38 101.6) (xy 140.97 101.6)
 		)
 		(stroke
 			(width 0)
@@ -3295,16 +3123,6 @@
 			(type default)
 		)
 		(uuid "57d9b4fb-e6e9-4c06-a110-b6adba0edf30")
-	)
-	(wire
-		(pts
-			(xy 66.04 110.49) (xy 66.04 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "64ad4243-b2f4-4251-8981-efeb53b707ac")
 	)
 	(wire
 		(pts
@@ -3368,23 +3186,13 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 93.98) (xy 144.78 93.98)
+			(xy 146.05 93.98) (xy 148.59 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "791c9b13-3407-496d-b5c1-ed11dfda4d66")
-	)
-	(wire
-		(pts
-			(xy 66.04 120.65) (xy 66.04 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7bd84536-b3ae-468b-9c7c-c8717ea7e6dc")
 	)
 	(wire
 		(pts
@@ -3398,7 +3206,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 110.49) (xy 95.25 113.03)
+			(xy 99.06 110.49) (xy 99.06 113.03)
 		)
 		(stroke
 			(width 0)
@@ -3418,7 +3226,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 106.68) (xy 134.62 121.92)
+			(xy 138.43 106.68) (xy 138.43 121.92)
 		)
 		(stroke
 			(width 0)
@@ -3548,7 +3356,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 104.14) (xy 115.57 101.6)
+			(xy 119.38 104.14) (xy 119.38 101.6)
 		)
 		(stroke
 			(width 0)
@@ -3618,7 +3426,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 104.14) (xy 165.1 104.14)
+			(xy 166.37 104.14) (xy 168.91 104.14)
 		)
 		(stroke
 			(width 0)
@@ -3668,7 +3476,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 99.06) (xy 115.57 101.6)
+			(xy 119.38 99.06) (xy 119.38 101.6)
 		)
 		(stroke
 			(width 0)
@@ -3718,7 +3526,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 111.76) (xy 142.24 114.3)
+			(xy 146.05 111.76) (xy 146.05 114.3)
 		)
 		(stroke
 			(width 0)
@@ -3728,7 +3536,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 121.92) (xy 154.94 121.92)
+			(xy 138.43 121.92) (xy 158.75 121.92)
 		)
 		(stroke
 			(width 0)
@@ -3738,7 +3546,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 120.65) (xy 95.25 123.19)
+			(xy 99.06 120.65) (xy 99.06 123.19)
 		)
 		(stroke
 			(width 0)
@@ -3748,7 +3556,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 121.92) (xy 154.94 104.14)
+			(xy 158.75 121.92) (xy 158.75 104.14)
 		)
 		(stroke
 			(width 0)
@@ -3758,7 +3566,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 93.98) (xy 154.94 93.98)
+			(xy 156.21 93.98) (xy 158.75 93.98)
 		)
 		(stroke
 			(width 0)
@@ -3768,7 +3576,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 111.76) (xy 115.57 114.3)
+			(xy 119.38 111.76) (xy 119.38 114.3)
 		)
 		(stroke
 			(width 0)
@@ -3818,6 +3626,16 @@
 	)
 	(wire
 		(pts
+			(xy 80.01 120.65) (xy 80.01 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f08539d4-74b6-4ef9-8b4a-289f72585c4d")
+	)
+	(wire
+		(pts
 			(xy 62.23 46.99) (xy 72.39 46.99)
 		)
 		(stroke
@@ -3845,6 +3663,16 @@
 			(type default)
 		)
 		(uuid "f50f15b5-d126-481e-bd8f-c551e5124a7a")
+	)
+	(wire
+		(pts
+			(xy 80.01 110.49) (xy 80.01 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f71d9d96-1b1f-4a85-85f0-151084e5653d")
 	)
 	(wire
 		(pts
@@ -3933,7 +3761,7 @@
 	)
 	(hierarchical_label "REF_2V5"
 		(shape passive)
-		(at 165.1 104.14 0)
+		(at 168.91 104.14 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3944,7 +3772,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 115.57 88.9 0)
+		(at 119.38 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3953,7 +3781,7 @@
 		(fields_autoplaced yes)
 		(uuid "01299906-b7b9-47bc-9a8f-f2d23f4f5709")
 		(property "Reference" "#PWR015"
-			(at 115.57 92.71 0)
+			(at 119.38 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3962,7 +3790,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 115.57 83.82 0)
+			(at 119.38 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3970,7 +3798,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 115.57 88.9 0)
+			(at 119.38 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3979,7 +3807,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 88.9 0)
+			(at 119.38 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3988,7 +3816,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 115.57 88.9 0)
+			(at 119.38 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4061,7 +3889,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/RC0805FR-134R7L/14286748"
+		(property "Supplier" ""
+			(at 49.53 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0805FR-134R7L"
 			(at 49.53 86.36 90)
 			(effects
 				(font
@@ -4080,6 +3917,85 @@
 			(project ""
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/713bd15e-856e-443f-a6a5-b9988a9adf89"
 					(reference "R706")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 80.01 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "03755388-03be-4466-b848-97427344b3ec")
+		(property "Reference" "C7"
+			(at 83.82 115.5699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10uF"
+			(at 83.82 118.1099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 80.9752 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 80.01 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 80.01 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A106KP8NNNC"
+			(at 80.01 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d1ba69bb-bf7f-4b38-8448-76facdcce69f")
+		)
+		(pin "1"
+			(uuid "a27a3028-12dd-4269-b5c5-cf681cf96419")
+		)
+		(instances
+			(project "frequency_counter"
+				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/713bd15e-856e-443f-a6a5-b9988a9adf89"
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -4204,7 +4120,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/murata-electronics/DFE252012F-2R2M-P2/5812591?s=N4IgTCBcDaICIDECiYCsYAMBGMCC0YASmALIgC6AvkA"
+		(property "Supplier" ""
+			(at 34.29 110.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "DFE252012F-2R2M=P2"
 			(at 34.29 110.49 90)
 			(effects
 				(font
@@ -4295,72 +4220,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 66.04 123.19 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "10ee8907-4dba-4bf1-8a4e-bff7d8c229e7")
-		(property "Reference" "#PWR0703"
-			(at 66.04 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 66.04 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 66.04 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 66.04 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 66.04 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4ce495cf-6c6b-4f1b-aee7-ee2f6adcd581")
-		)
-		(instances
-			(project "frequency_counter"
-				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/713bd15e-856e-443f-a6a5-b9988a9adf89"
-					(reference "#PWR0703")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 38.1 86.36 90)
 		(unit 1)
@@ -4429,7 +4288,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 80.01 123.19 0)
+		(at 66.04 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4438,6 +4297,235 @@
 		(fields_autoplaced yes)
 		(uuid "18a17968-28b0-4a67-af5e-5a183ddbea7a")
 		(property "Reference" "#PWR0705"
+			(at 66.04 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 66.04 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 66.04 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.04 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 66.04 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "84f827fc-0572-41ab-9719-08aca524e7d5")
+		)
+		(instances
+			(project "frequency_counter"
+				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/713bd15e-856e-443f-a6a5-b9988a9adf89"
+					(reference "#PWR0705")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 166.37 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "19db597d-b69f-4983-92f6-a9b37d066492")
+		(property "Reference" "#PWR017"
+			(at 166.37 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 166.37 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 166.37 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 166.37 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 166.37 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c067b87f-3015-4f23-940c-14321384deeb")
+		)
+		(instances
+			(project "frequency_counter"
+				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/713bd15e-856e-443f-a6a5-b9988a9adf89"
+					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 99.06 116.84 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1b325fd8-a12c-4841-9167-3283365dc05a")
+		(property "Reference" "D704"
+			(at 102.87 117.1574 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "RED"
+			(at 102.87 119.6974 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+			(at 99.06 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 99.06 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 99.06 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 99.06 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 99.06 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "B1911USD-20D000114U1930"
+			(at 99.06 116.84 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "425de617-93e0-49ed-a945-376b2fb43d07")
+		)
+		(pin "2"
+			(uuid "39cea85f-43bd-41d1-b563-22fc96b60575")
+		)
+		(instances
+			(project "frequency_counter"
+				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/713bd15e-856e-443f-a6a5-b9988a9adf89"
+					(reference "D704")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 80.01 123.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1b7bcf8f-4e21-493f-8e14-73682849897c")
+		(property "Reference" "#PWR025"
 			(at 80.01 129.54 0)
 			(effects
 				(font
@@ -4482,166 +4570,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "84f827fc-0572-41ab-9719-08aca524e7d5")
+			(uuid "8ddb5ea8-7a5e-43f0-bb58-89418d09bdb7")
 		)
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/713bd15e-856e-443f-a6a5-b9988a9adf89"
-					(reference "#PWR0705")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 162.56 116.84 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "19db597d-b69f-4983-92f6-a9b37d066492")
-		(property "Reference" "#PWR017"
-			(at 162.56 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 162.56 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 162.56 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 162.56 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 162.56 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c067b87f-3015-4f23-940c-14321384deeb")
-		)
-		(instances
-			(project "frequency_counter"
-				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/713bd15e-856e-443f-a6a5-b9988a9adf89"
-					(reference "#PWR017")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 95.25 116.84 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1b325fd8-a12c-4841-9167-3283365dc05a")
-		(property "Reference" "D704"
-			(at 99.06 117.1574 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "RED"
-			(at 99.06 119.6974 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 95.25 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 95.25 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 95.25 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 95.25 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/harvatek-corporation/B1911USD-20D000114U1930/15519991"
-			(at 95.25 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "425de617-93e0-49ed-a945-376b2fb43d07")
-		)
-		(pin "2"
-			(uuid "39cea85f-43bd-41d1-b563-22fc96b60575")
-		)
-		(instances
-			(project "frequency_counter"
-				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/713bd15e-856e-443f-a6a5-b9988a9adf89"
-					(reference "D704")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -4649,7 +4583,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 87.63 110.49 90)
+		(at 91.44 110.49 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4658,7 +4592,7 @@
 		(fields_autoplaced yes)
 		(uuid "2b4c5b9d-b65c-4a5c-9e4c-645a53c6bdd0")
 		(property "Reference" "R707"
-			(at 87.63 104.14 90)
+			(at 91.44 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4666,7 +4600,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 87.63 106.68 90)
+			(at 91.44 106.68 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4674,7 +4608,7 @@
 			)
 		)
 		(property "Footprint" "Custom:R_0402_1005Metric_Fix"
-			(at 87.884 109.474 90)
+			(at 91.694 109.474 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4683,7 +4617,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 87.63 110.49 0)
+			(at 91.44 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4692,7 +4626,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 87.63 110.49 0)
+			(at 91.44 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4700,8 +4634,17 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/RC0402JR-13220RL/14008194"
-			(at 87.63 110.49 90)
+		(property "Supplier" ""
+			(at 91.44 110.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-13220RL"
+			(at 91.44 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4779,7 +4722,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/RC0402JR-13220RL/14008194"
+		(property "Supplier" ""
+			(at 62.23 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-13220RL"
 			(at 62.23 30.48 0)
 			(effects
 				(font
@@ -4856,7 +4808,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/murata-electronics/GRM1555C1H121JA01D/587178"
+		(property "Supplier" ""
+			(at 59.69 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM1555C1H121JA01D"
 			(at 59.69 86.36 90)
 			(effects
 				(font
@@ -4933,7 +4894,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/RC0402JR-07100RL/726415"
+		(property "Supplier" ""
+			(at 139.7 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-07100RL"
 			(at 139.7 33.02 90)
 			(effects
 				(font
@@ -5012,7 +4982,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/kyocera-avx/KGM05AR51C104KH/563236"
+		(property "Supplier" ""
+			(at 146.05 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM05AR51C104KH"
 			(at 146.05 39.37 0)
 			(effects
 				(font
@@ -5089,7 +5068,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/mcc-micro-commercial-components/SIL2300-TP/12177208"
+		(property "Supplier" ""
+			(at 167.64 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SIL2300-TP "
 			(at 167.64 59.69 90)
 			(effects
 				(font
@@ -5180,7 +5168,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/evvo/TP4057/22482076"
+		(property "Supplier" ""
+			(at 82.55 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TP4057TP4057"
 			(at 82.55 49.53 0)
 			(effects
 				(font
@@ -5284,85 +5281,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 34.29 30.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3ea5a41f-bfc9-4d1b-947a-d4d22034a691")
-		(property "Reference" "C701"
-			(at 38.1 28.3209 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4.7uF"
-			(at 38.1 30.8609 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
-			(at 35.2552 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 34.29 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 34.29 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/860020572001/5727170"
-			(at 34.29 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a30b6ddf-1eb7-44a9-81be-2b32f419318a")
-		)
-		(pin "1"
-			(uuid "c3c79e59-2203-415d-a20f-7c195836f849")
-		)
-		(instances
-			(project ""
-				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/713bd15e-856e-443f-a6a5-b9988a9adf89"
-					(reference "C701")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
 		(at 48.26 40.64 90)
 		(unit 1)
@@ -5426,7 +5344,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/harvatek-corporation/B1911NG-20D000214U1930/15519989"
+		(property "Supplier" ""
+			(at 48.26 40.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "B1911NG--20D000214U1930"
 			(at 48.26 40.64 90)
 			(effects
 				(font
@@ -5452,7 +5379,7 @@
 	)
 	(symbol
 		(lib_id "Reference_Voltage:LM4040DBZ-2.5")
-		(at 115.57 107.95 90)
+		(at 119.38 107.95 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5461,7 +5388,7 @@
 		(fields_autoplaced yes)
 		(uuid "54bd571e-c5fb-4382-9222-2b70cd993621")
 		(property "Reference" "U3"
-			(at 118.11 106.6799 90)
+			(at 121.92 106.6799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5470,7 +5397,7 @@
 			)
 		)
 		(property "Value" "LM4040D25FTA"
-			(at 118.11 109.2199 90)
+			(at 121.92 109.2199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5479,7 +5406,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
-			(at 120.65 107.95 0)
+			(at 124.46 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5489,7 +5416,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm4040-n.pdf"
-			(at 115.57 107.95 0)
+			(at 119.38 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5499,7 +5426,7 @@
 			)
 		)
 		(property "Description" "2.500V Precision Micropower Shunt Voltage Reference, SOT-23"
-			(at 115.57 107.95 0)
+			(at 119.38 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5527,16 +5454,16 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 162.56 110.49 0)
+		(at 109.22 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "5d786e20-6cd6-41cf-bf59-91319f24fbaf")
-		(property "Reference" "CD3"
-			(at 166.37 109.2199 0)
+		(uuid "59b87368-b707-40ef-8684-06f6ab2d4e9d")
+		(property "Reference" "C4"
+			(at 113.03 58.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5544,8 +5471,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
-			(at 166.37 111.7599 0)
+		(property "Value" "10uF"
+			(at 113.03 60.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5553,8 +5480,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Custom:C_0402_1005Metric_Fix"
-			(at 163.5252 114.3 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 110.1852 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5563,7 +5490,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 162.56 110.49 0)
+			(at 109.22 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5572,7 +5499,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 162.56 110.49 0)
+			(at 109.22 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5580,8 +5507,96 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/kyocera-avx/KGM05AR51C104KH/563236"
-			(at 162.56 110.49 0)
+		(property "MPN" "CL10A106KP8NNNC"
+			(at 109.22 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a8d1ffb1-3c2b-4f22-b9d3-1ea588df918b")
+		)
+		(pin "1"
+			(uuid "53923e3f-b00c-4291-b024-401b56502dd9")
+		)
+		(instances
+			(project ""
+				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/713bd15e-856e-443f-a6a5-b9988a9adf89"
+					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 166.37 110.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5d786e20-6cd6-41cf-bf59-91319f24fbaf")
+		(property "Reference" "CD3"
+			(at 170.18 109.2199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 170.18 111.7599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Custom:C_0402_1005Metric_Fix"
+			(at 167.3352 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 166.37 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 166.37 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier" ""
+			(at 166.37 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM05AR51C104KH"
+			(at 166.37 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5657,7 +5672,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/evvo/DW01/26221073"
+		(property "Supplier" ""
+			(at 170.18 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "DW01"
 			(at 170.18 35.56 0)
 			(effects
 				(font
@@ -5760,6 +5784,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 66.04 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6c4c6a4d-d2b1-44b3-81c9-df0e375c3b8b")
+		(property "Reference" "C6"
+			(at 69.85 115.5699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10uF"
+			(at 69.85 118.1099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 67.0052 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 66.04 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 66.04 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A106KP8NNNC"
+			(at 66.04 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ed9830db-e1ba-423f-a150-97f57bf66c12")
+		)
+		(pin "1"
+			(uuid "80748ea2-23e4-4c1c-8d40-1b490e35d79c")
+		)
+		(instances
+			(project "frequency_counter"
+				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/713bd15e-856e-443f-a6a5-b9988a9adf89"
+					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 182.88 44.45 180)
 		(unit 1)
@@ -5814,7 +5917,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/RC0402JR-071KL/726408"
+		(property "Supplier" ""
+			(at 182.88 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-071KL "
 			(at 182.88 44.45 0)
 			(effects
 				(font
@@ -5907,7 +6019,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 115.57 114.3 0)
+		(at 119.38 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5916,7 +6028,7 @@
 		(fields_autoplaced yes)
 		(uuid "8ca2c150-e8ec-4431-8433-3858a01de1ba")
 		(property "Reference" "#PWR014"
-			(at 115.57 120.65 0)
+			(at 119.38 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5925,7 +6037,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 115.57 119.38 0)
+			(at 119.38 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5933,7 +6045,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 115.57 114.3 0)
+			(at 119.38 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5942,7 +6054,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 114.3 0)
+			(at 119.38 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5951,7 +6063,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 115.57 114.3 0)
+			(at 119.38 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5973,7 +6085,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 95.25 123.19 0)
+		(at 99.06 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5982,7 +6094,7 @@
 		(fields_autoplaced yes)
 		(uuid "964334cd-dd88-4600-bea5-164fe6f6da34")
 		(property "Reference" "#PWR0106"
-			(at 95.25 129.54 0)
+			(at 99.06 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5991,7 +6103,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 95.25 128.27 0)
+			(at 99.06 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5999,7 +6111,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 95.25 123.19 0)
+			(at 99.06 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6008,7 +6120,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 95.25 123.19 0)
+			(at 99.06 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6017,7 +6129,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 95.25 123.19 0)
+			(at 99.06 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6032,84 +6144,6 @@
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/713bd15e-856e-443f-a6a5-b9988a9adf89"
 					(reference "#PWR0106")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 80.01 116.84 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "971e0ea0-a19d-44a2-ba5b-9750c5325740")
-		(property "Reference" "C705"
-			(at 83.566 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "22uF"
-			(at 83.566 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
-			(at 80.9752 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 80.01 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 80.01 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/860020372002/5727026"
-			(at 80.01 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "56ca187f-9c37-4307-99bc-731ceb3c763b")
-		)
-		(pin "2"
-			(uuid "7f3fc966-40d3-4f84-9b82-1c7f0de582dd")
-		)
-		(instances
-			(project "frequency_counter"
-				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/713bd15e-856e-443f-a6a5-b9988a9adf89"
-					(reference "C705")
 					(unit 1)
 				)
 			)
@@ -6179,7 +6213,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/harvatek-corporation/B1911USD-20D000114U1930/15519991"
+		(property "Supplier" ""
+			(at 62.23 40.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "B1911USD-20D000114U1930"
 			(at 62.23 40.64 90)
 			(effects
 				(font
@@ -6271,7 +6314,7 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:MCP6001x-LT")
-		(at 144.78 104.14 0)
+		(at 148.59 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6279,7 +6322,7 @@
 		(dnp no)
 		(uuid "9cc9ade7-0c4b-40ea-8734-321ade1e0909")
 		(property "Reference" "U2"
-			(at 148.336 108.204 0)
+			(at 152.146 108.204 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6287,7 +6330,7 @@
 			)
 		)
 		(property "Value" "MCP6001"
-			(at 148.336 110.744 0)
+			(at 152.146 110.744 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6295,7 +6338,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
-			(at 142.24 109.22 0)
+			(at 146.05 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6305,7 +6348,7 @@
 			)
 		)
 		(property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf"
-			(at 144.78 104.14 0)
+			(at 148.59 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6314,7 +6357,7 @@
 			)
 		)
 		(property "Description" "1 MHz, Low-Power Op Amp, SC-70-5"
-			(at 144.78 104.14 0)
+			(at 148.59 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6399,7 +6442,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/shenzhen-slkormicro-semicon-co-ltd/BAT60A/26112893"
+		(property "Supplier" ""
+			(at 53.34 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BAT60A"
 			(at 53.34 97.79 0)
 			(effects
 				(font
@@ -6624,7 +6676,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 142.24 114.3 0)
+		(at 146.05 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6633,7 +6685,7 @@
 		(fields_autoplaced yes)
 		(uuid "a9eca6f2-2083-45f8-9215-19feff0cec6a")
 		(property "Reference" "#PWR012"
-			(at 142.24 120.65 0)
+			(at 146.05 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6642,7 +6694,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 142.24 119.38 0)
+			(at 146.05 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6650,7 +6702,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 142.24 114.3 0)
+			(at 146.05 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6659,7 +6711,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 142.24 114.3 0)
+			(at 146.05 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6668,7 +6720,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 142.24 114.3 0)
+			(at 146.05 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6683,6 +6735,85 @@
 			(project ""
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/713bd15e-856e-443f-a6a5-b9988a9adf89"
 					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 34.29 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "afae98f9-2d3d-48cd-9120-9acd1d6f77fc")
+		(property "Reference" "C5"
+			(at 38.1 29.2099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10uF"
+			(at 38.1 31.7499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 35.2552 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 34.29 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 34.29 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A106KP8NNNC"
+			(at 34.29 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "77f79522-27d3-4aab-9353-2bc618a82b9b")
+		)
+		(pin "1"
+			(uuid "134dae04-47ba-4026-8a5f-696280d9bae1")
+		)
+		(instances
+			(project "frequency_counter"
+				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/713bd15e-856e-443f-a6a5-b9988a9adf89"
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -6741,7 +6872,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/texas-instruments/TPS613222ADBVR/8638376"
+		(property "Supplier" ""
+			(at 53.34 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TPS613222ADBVR"
 			(at 53.34 113.03 0)
 			(effects
 				(font
@@ -6776,7 +6916,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 142.24 91.44 0)
+		(at 146.05 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6785,7 +6925,7 @@
 		(fields_autoplaced yes)
 		(uuid "ba109166-ebd8-4ac5-9db6-0a6da5427d74")
 		(property "Reference" "#PWR013"
-			(at 142.24 95.25 0)
+			(at 146.05 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6794,7 +6934,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 142.24 86.36 0)
+			(at 146.05 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6802,7 +6942,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 142.24 91.44 0)
+			(at 146.05 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6811,7 +6951,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 142.24 91.44 0)
+			(at 146.05 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6820,7 +6960,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 142.24 91.44 0)
+			(at 146.05 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6908,7 +7048,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 115.57 95.25 0)
+		(at 119.38 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6917,7 +7057,7 @@
 		(fields_autoplaced yes)
 		(uuid "bf4730ff-cff7-48a3-aa05-679b1238707a")
 		(property "Reference" "R6"
-			(at 118.11 93.9799 0)
+			(at 121.92 93.9799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6926,7 +7066,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 118.11 96.5199 0)
+			(at 121.92 96.5199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6935,7 +7075,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 116.586 95.504 90)
+			(at 120.396 95.504 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6944,7 +7084,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 115.57 95.25 0)
+			(at 119.38 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6953,7 +7093,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 115.57 95.25 0)
+			(at 119.38 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7031,7 +7171,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/RC0402JR-13220RL/14008194"
+		(property "Supplier" ""
+			(at 48.26 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-13220RL"
 			(at 48.26 30.48 0)
 			(effects
 				(font
@@ -7122,166 +7271,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 109.22 59.69 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e1b0f93b-f817-4909-afbc-7b5bc21c4193")
-		(property "Reference" "C702"
-			(at 113.03 57.5309 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4.7uF"
-			(at 113.03 60.0709 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
-			(at 110.1852 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 109.22 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 109.22 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/860020572001/5727170"
-			(at 109.22 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "19ceda2c-2c60-486e-9368-d644ad98e938")
-		)
-		(pin "1"
-			(uuid "641b88e5-2c5c-4f7d-bf0e-b839753d63b8")
-		)
-		(instances
-			(project ""
-				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/713bd15e-856e-443f-a6a5-b9988a9adf89"
-					(reference "C702")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 66.04 116.84 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e2b66a43-c6f7-49a7-bdfc-4fd626dc84f4")
-		(property "Reference" "C704"
-			(at 69.85 115.5699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uF"
-			(at 69.85 118.1099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Custom:C_0402_1005Metric_Fix"
-			(at 67.0052 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 66.04 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 66.04 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/kyocera-avx/0402ZD105KAT2A/1545026"
-			(at 66.04 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5e0e9798-aa0d-412e-93bb-cf15f33dead1")
-		)
-		(pin "1"
-			(uuid "39ef20ed-6d78-4969-9a5b-43f630beeacb")
-		)
-		(instances
-			(project ""
-				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/713bd15e-856e-443f-a6a5-b9988a9adf89"
-					(reference "C704")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
-		(at 154.94 93.98 90)
+		(at 158.75 93.98 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7290,7 +7281,7 @@
 		(fields_autoplaced yes)
 		(uuid "e519d1fc-d908-4b9f-8038-0691e16bc172")
 		(property "Reference" "#PWR016"
-			(at 161.29 93.98 0)
+			(at 165.1 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7299,7 +7290,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 158.75 93.9799 90)
+			(at 162.56 93.9799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7308,7 +7299,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 93.98 0)
+			(at 158.75 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7317,7 +7308,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 93.98 0)
+			(at 158.75 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7326,7 +7317,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 154.94 93.98 0)
+			(at 158.75 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7348,7 +7339,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 148.59 93.98 90)
+		(at 152.4 93.98 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7357,7 +7348,7 @@
 		(fields_autoplaced yes)
 		(uuid "f3c713a3-01e3-4bd5-b854-0a7e4543bc92")
 		(property "Reference" "CD2"
-			(at 148.59 86.36 90)
+			(at 152.4 86.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7365,7 +7356,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 148.59 88.9 90)
+			(at 152.4 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7373,7 +7364,7 @@
 			)
 		)
 		(property "Footprint" "Custom:C_0402_1005Metric_Fix"
-			(at 152.4 93.0148 0)
+			(at 156.21 93.0148 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7382,7 +7373,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 148.59 93.98 0)
+			(at 152.4 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7391,7 +7382,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 148.59 93.98 0)
+			(at 152.4 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7399,8 +7390,17 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/kyocera-avx/KGM05AR51C104KH/563236"
-			(at 148.59 93.98 0)
+		(property "Supplier" ""
+			(at 152.4 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM05AR51C104KH"
+			(at 152.4 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7478,7 +7478,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/RC0402JR-132K2L/13694130"
+		(property "Supplier" ""
+			(at 95.25 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-132K2L"
 			(at 95.25 58.42 0)
 			(effects
 				(font

@@ -3196,7 +3196,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/kyocera-avx/KGM05AR51C104KH/563236"
+		(property "Supplier" ""
+			(at 161.29 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM05AR51C104KH"
 			(at 161.29 110.49 0)
 			(effects
 				(font
@@ -3582,7 +3591,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/CC0402JRNPO9BN101/302758"
+		(property "Supplier" ""
+			(at 115.57 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRNPO9BN101"
 			(at 115.57 110.49 0)
 			(effects
 				(font
@@ -3724,7 +3742,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/diodes-incorporated/74LVC1G02W5-7/2330097"
+		(property "Supplier" ""
+			(at 43.18 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "74LVC1G02W5-7"
 			(at 43.18 137.16 0)
 			(effects
 				(font
@@ -3812,7 +3839,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/kyocera-avx/KGM05AR51C104KH/563236"
+		(property "Supplier" ""
+			(at 130.81 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM05AR51C104KH"
 			(at 130.81 110.49 0)
 			(effects
 				(font
@@ -3891,7 +3927,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/CC0402JRNPO9BN101/302758"
+		(property "Supplier" ""
+			(at 146.05 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRNPO9BN101"
 			(at 146.05 110.49 0)
 			(effects
 				(font
@@ -3970,7 +4015,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/kyocera-avx/KGM05AR51C104KH/563236"
+		(property "Supplier" ""
+			(at 203.2 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM05AR51C104KH"
 			(at 203.2 110.49 0)
 			(effects
 				(font
@@ -4049,7 +4103,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/kyocera-avx/KGM05AR51C104KH/563236"
+		(property "Supplier" ""
+			(at 130.81 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM05AR51C104KH"
 			(at 130.81 78.74 0)
 			(effects
 				(font
@@ -4128,7 +4191,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/kyocera-avx/KGM05AR51C104KH/563236"
+		(property "Supplier" ""
+			(at 90.17 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM05AR51C104KH"
 			(at 90.17 88.9 0)
 			(effects
 				(font
@@ -4204,7 +4276,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/nexperia-usa-inc/74LVC1G80GW-125/1231494"
+		(property "Supplier" ""
+			(at 172.72 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "74LVC1G80GW,125"
 			(at 172.72 43.18 0)
 			(effects
 				(font
@@ -4639,7 +4720,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/kyocera-avx/KGM05AR51C104KH/563236"
+		(property "Supplier" ""
+			(at 48.26 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM05AR51C104KH"
 			(at 48.26 88.9 0)
 			(effects
 				(font
@@ -5063,7 +5153,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/nexperia-usa-inc/74LVC1G80GW-125/1231494"
+		(property "Supplier" ""
+			(at 133.35 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "74LVC1G80GW,125"
 			(at 133.35 43.18 0)
 			(effects
 				(font
@@ -5481,7 +5580,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/CC0402JRNPO9BN101/302758"
+		(property "Supplier" ""
+			(at 115.57 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRNPO9BN101"
 			(at 115.57 78.74 0)
 			(effects
 				(font

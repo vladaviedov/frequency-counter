@@ -2552,7 +2552,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/kyocera-avx/KGM05AR51C104KH/563236"
+		(property "Supplier" ""
+			(at 26.67 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM05AR51C104KH"
 			(at 26.67 62.23 0)
 			(effects
 				(font
@@ -2697,7 +2706,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/74VHC4040FT/5155784"
+		(property "Supplier" ""
+			(at 46.99 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "74VHC4040FT"
 			(at 46.99 50.8 0)
 			(effects
 				(font
@@ -2818,7 +2836,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/kyocera-avx/KGM05AR51C104KH/563236"
+		(property "Supplier" ""
+			(at 27.94 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM05AR51C104KH"
 			(at 27.94 124.46 0)
 			(effects
 				(font
@@ -3029,7 +3056,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/74VHC4040FT/5155784"
+		(property "Supplier" ""
+			(at 99.06 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "74VHC4040FT"
 			(at 99.06 50.8 0)
 			(effects
 				(font
@@ -3150,7 +3186,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/74VHC4040FT/5155784"
+		(property "Supplier" ""
+			(at 46.99 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "74VHC4040FT"
 			(at 46.99 113.03 0)
 			(effects
 				(font
@@ -3402,7 +3447,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/kyocera-avx/KGM05AR51C104KH/563236"
+		(property "Supplier" ""
+			(at 78.74 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM05AR51C104KH"
 			(at 78.74 63.5 0)
 			(effects
 				(font

@@ -2426,7 +2426,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "Generic"
+		(property "Supplier" ""
 			(at 190.5 50.8 0)
 			(effects
 				(font
@@ -2517,8 +2517,17 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/RC0402JR-13220RL/14008194"
+		(property "Supplier" ""
 			(at 160.02 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-13220RL"
+			(at 160.02 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2596,8 +2605,17 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/RC0402JR-13330RL/14008183"
+		(property "Supplier" ""
 			(at 102.87 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-13330RL"
+			(at 102.87 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2807,7 +2825,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/kyocera-avx/0402ZD105KAT2A/1545026"
+		(property "Supplier" ""
+			(at 21.59 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402ZD105KAT2A"
 			(at 21.59 38.1 0)
 			(effects
 				(font
@@ -2952,8 +2979,17 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/RC0402JR-13330RL/14008183"
+		(property "Supplier" ""
 			(at 116.84 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-13330RL"
+			(at 116.84 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3095,7 +3131,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/RC0402JR-13330RL/14008183"
+		(property "Supplier" ""
+			(at 83.82 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-13330RL"
 			(at 83.82 77.47 90)
 			(effects
 				(font
@@ -3240,7 +3285,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/RC0402JR-1310KL/13694115"
+		(property "Supplier" ""
+			(at 148.59 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-1310KL"
 			(at 148.59 41.91 0)
 			(effects
 				(font
@@ -3320,7 +3374,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/microchip-technology/ATTINY1634-SU/3128695"
+		(property "Supplier" ""
+			(at 46.99 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ATTINY1634-SU"
 			(at 46.99 64.77 0)
 			(effects
 				(font
@@ -3462,7 +3525,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/harvatek-corporation/E1221NB-05D000814U1930/18165804"
+		(property "Supplier" ""
+			(at 160.02 36.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "E1221NB--05D000814U1930"
 			(at 160.02 36.83 90)
 			(effects
 				(font

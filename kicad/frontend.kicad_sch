@@ -2531,7 +2531,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/skyworks-solutions-inc/SMP1345-040LF/2217452"
+		(property "Supplier" ""
+			(at 25.4 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMP1345-040LF"
 			(at 25.4 66.04 90)
 			(effects
 				(font
@@ -2686,7 +2695,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/murata-electronics/GRM155R71C103KA01D/587215"
+		(property "Supplier" ""
+			(at 143.51 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R71C103KA01D"
 			(at 143.51 34.29 0)
 			(effects
 				(font
@@ -2763,7 +2781,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/RC0402JR-07100RL/726415"
+		(property "Supplier" ""
+			(at 90.17 115.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-07100RL"
 			(at 90.17 115.57 90)
 			(effects
 				(font
@@ -2926,7 +2953,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/skyworks-solutions-inc/SMP1345-040LF/2217452"
+		(property "Supplier" ""
+			(at 40.64 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMP1345-040LF"
 			(at 40.64 76.2 90)
 			(effects
 				(font
@@ -3069,7 +3105,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/RC0402JR-07100RL/726415"
+		(property "Supplier" ""
+			(at 53.34 132.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-071KL "
 			(at 53.34 132.08 90)
 			(effects
 				(font
@@ -3302,7 +3347,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/skyworks-solutions-inc/SMP1345-040LF/2217452"
+		(property "Supplier" ""
+			(at 40.64 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMP1345-040LF"
 			(at 40.64 66.04 90)
 			(effects
 				(font
@@ -3534,7 +3588,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/skyworks-solutions-inc/SMP1345-040LF/2217452"
+		(property "Supplier" ""
+			(at 40.64 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMP1345-040LF"
 			(at 40.64 148.59 90)
 			(effects
 				(font
@@ -3679,7 +3742,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/CC0402JRNPO9BN101/302758"
+		(property "Supplier" ""
+			(at 128.27 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0402JRNPO9BN101"
 			(at 128.27 34.29 0)
 			(effects
 				(font
@@ -3758,7 +3830,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/kyocera-avx/0402ZD105KAT2A/1545026"
+		(property "Supplier" ""
+			(at 158.75 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402ZD105KAT2A"
 			(at 158.75 34.29 0)
 			(effects
 				(font
@@ -3855,7 +3936,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/skyworks-solutions-inc/SMP1345-040LF/2217452"
+		(property "Supplier" ""
+			(at 25.4 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMP1345-040LF"
 			(at 25.4 148.59 90)
 			(effects
 				(font
@@ -4085,7 +4175,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/skyworks-solutions-inc/SMP1345-040LF/2217452"
+		(property "Supplier" ""
+			(at 25.4 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMP1345-040LF"
 			(at 25.4 76.2 90)
 			(effects
 				(font
@@ -4230,7 +4329,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/kyocera-avx/KGM05AR51C104KH/563236"
+		(property "Supplier" ""
+			(at 102.87 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM05AR51C104KH"
 			(at 102.87 153.67 0)
 			(effects
 				(font
@@ -4309,7 +4417,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/RT1206BRE07100RL/1080028"
+		(property "Supplier" ""
+			(at 55.88 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT1206BRE07100RL"
 			(at 55.88 66.04 0)
 			(effects
 				(font
@@ -4672,7 +4789,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/skyworks-solutions-inc/SMP1345-040LF/2217452"
+		(property "Supplier" ""
+			(at 25.4 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMP1345-040LF"
 			(at 25.4 138.43 90)
 			(effects
 				(font
@@ -4819,7 +4945,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/RC0402JR-07100RL/726415"
+		(property "Supplier" ""
+			(at 88.9 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-07100RL"
 			(at 88.9 59.69 90)
 			(effects
 				(font
@@ -4898,7 +5033,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/rohm-semiconductor/RBE01VYM6AFHTR/24634517?s=N4IgjCBcoKwOwAYqgMZQGYEMA2BnApgDQgBuAdlAC4BOArkSAPZQDaIALAggMxwAcIALrEADpSggAyjQCWZAOYgAvsTABOPmuQg0kLHgbNIbJIJUgATBYBsEaDow4CxI2wtcABAFsAah4ACHnAAdDDeAIJCouKQIADCjLQi2PgAJgCqZDKUAPLoALL4mLi01PjKxAC0Wva6NPQurOBC5pUW2nV0hk0wLebW2jKpEpVgCBDREiDElACeIuWxxWhKSkA"
+		(property "Supplier" ""
+			(at 59.69 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RBE01VYM6AFHTR"
 			(at 59.69 138.43 90)
 			(effects
 				(font
@@ -4977,7 +5121,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/yageo/RT1206BRE07100RL/1080028"
+		(property "Supplier" ""
+			(at 68.58 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT1206BRE07100RL"
 			(at 68.58 66.04 0)
 			(effects
 				(font
@@ -5140,7 +5293,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/skyworks-solutions-inc/SMP1345-040LF/2217452"
+		(property "Supplier" ""
+			(at 40.64 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SMP1345-040LF"
 			(at 40.64 138.43 90)
 			(effects
 				(font
@@ -5349,7 +5511,16 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/texas-instruments/TLV3603DCKR/15853830"
+		(property "Supplier" ""
+			(at 102.87 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TLV3603DCKR"
 			(at 102.87 62.23 0)
 			(effects
 				(font
