@@ -2249,7 +2249,7 @@
 		)
 		(uuid "18701918-3cee-4734-ad26-0e7ada710c95")
 	)
-	(hierarchical_label "MU_CH_SEL"
+	(hierarchical_label "CG_CH_SEL"
 		(shape output)
 		(at 64.77 87.63 0)
 		(effects

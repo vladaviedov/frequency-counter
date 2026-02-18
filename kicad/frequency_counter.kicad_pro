@@ -470,7 +470,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -513,6 +513,15 @@
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6
+      },
+      {
+        "bus_width": 18,
+        "line_style": 3,
+        "name": "RF_Z50",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "wire_width": 9
       }
     ],
     "meta": {
@@ -709,6 +718,10 @@
     [
       "ad3ea9b5-9e07-4330-8c93-7bb022b6949a",
       "Reference Clock"
+    ],
+    [
+      "f0498343-6c98-4b42-ad8e-278dfdbc5699",
+      "Channel Gate"
     ],
     [
       "f4b454df-c822-4d38-8ba5-078288da05c0",
