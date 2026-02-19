@@ -6,7 +6,7 @@
 	(paper "USLetter")
 	(title_block
 		(title "Frequency Counter")
-		(date "2026-02-17")
+		(date "2026-02-18")
 		(rev "2.0-draft")
 		(company "vladaviedov.org")
 		(comment 1 "Maximum Precision (125 mHz ~ 325 MHz): 62.5 mHz")
@@ -2832,15 +2832,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 66.04 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "KGM05AR51C104KH"
 			(at 66.04 66.04 0)
 			(effects
@@ -3052,15 +3043,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 182.88 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "KGM05AR51C104KH"
 			(at 182.88 64.77 0)
 			(effects
@@ -3198,15 +3180,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 124.46 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
 			(at 124.46 66.04 0)
 			(effects
 				(font
@@ -3624,15 +3597,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 50.8 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "74HC165D,653"
 			(at 50.8 52.07 0)
 			(effects
@@ -4018,15 +3982,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 167.64 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "74HC165D,653"
 			(at 167.64 52.07 0)
 			(effects
@@ -4148,15 +4103,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 241.3 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "KGM05AR51C104KH"
 			(at 241.3 64.77 0)
 			(effects
@@ -4228,15 +4174,6 @@
 			)
 		)
 		(property "Description" "Shift Register, 8-bit, Parallel Load"
-			(at 226.06 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
 			(at 226.06 52.07 0)
 			(effects
 				(font
@@ -4556,15 +4493,6 @@
 			)
 		)
 		(property "Description" "Shift Register, 8-bit, Parallel Load"
-			(at 109.22 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
 			(at 109.22 52.07 0)
 			(effects
 				(font

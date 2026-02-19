@@ -6,7 +6,7 @@
 	(paper "USLetter")
 	(title_block
 		(title "Frequency Counter")
-		(date "2026-02-17")
+		(date "2026-02-18")
 		(rev "2.0-draft")
 		(company "vladaviedov.org")
 		(comment 1 "Maximum Precision (125 mHz ~ 325 MHz): 62.5 mHz")
@@ -2552,15 +2552,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 26.67 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "KGM05AR51C104KH"
 			(at 26.67 62.23 0)
 			(effects
@@ -2706,15 +2697,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 46.99 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "74VHC4040FT"
 			(at 46.99 50.8 0)
 			(effects
@@ -2828,15 +2810,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 27.94 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
 			(at 27.94 124.46 0)
 			(effects
 				(font
@@ -3056,15 +3029,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 99.06 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "74VHC4040FT"
 			(at 99.06 50.8 0)
 			(effects
@@ -3178,15 +3142,6 @@
 			)
 		)
 		(property "Description" "Binary Counter 12 stages (Asynchronous)"
-			(at 46.99 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
 			(at 46.99 113.03 0)
 			(effects
 				(font
@@ -3439,15 +3394,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 78.74 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
 			(at 78.74 63.5 0)
 			(effects
 				(font

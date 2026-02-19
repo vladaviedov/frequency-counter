@@ -6,7 +6,7 @@
 	(paper "USLetter")
 	(title_block
 		(title "Frequency Counter")
-		(date "2026-02-17")
+		(date "2026-02-18")
 		(rev "2.0-draft")
 		(company "vladaviedov.org")
 		(comment 1 "Maximum Precision (125 mHz ~ 325 MHz): 62.5 mHz")
@@ -3889,15 +3889,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 49.53 86.36 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0805FR-134R7L"
 			(at 49.53 86.36 90)
 			(effects
@@ -4113,15 +4104,6 @@
 		)
 		(property "Description" "Inductor"
 			(at 34.29 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
-			(at 34.29 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4482,15 +4464,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 99.06 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "B1911USD-20D000114U1930"
 			(at 99.06 116.84 90)
 			(effects
@@ -4634,15 +4607,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 91.44 110.49 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0402JR-13220RL"
 			(at 91.44 110.49 90)
 			(effects
@@ -4714,15 +4678,6 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 62.23 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
 			(at 62.23 30.48 0)
 			(effects
 				(font
@@ -4808,15 +4763,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 59.69 86.36 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "GRM1555C1H121JA01D"
 			(at 59.69 86.36 90)
 			(effects
@@ -4887,15 +4833,6 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 139.7 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
-			(at 139.7 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4982,15 +4919,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 146.05 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "KGM05AR51C104KH"
 			(at 146.05 39.37 0)
 			(effects
@@ -5061,15 +4989,6 @@
 		)
 		(property "Description" "Dual NMOS transistor, common drain, 6 pin package"
 			(at 148.336 60.706 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
-			(at 167.64 59.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5160,15 +5079,6 @@
 			)
 		)
 		(property "Description" "Constant-current/constant-voltage linear charger for single cell lithium-ion batteries with 2.9V Trickle Charge, 4.5V to 6.5V VDD, -40 to +85 degree Celsius, TSOT-23-6"
-			(at 82.55 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
 			(at 82.55 49.53 0)
 			(effects
 				(font
@@ -5344,15 +5254,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 48.26 40.64 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "B1911NG--20D000214U1930"
 			(at 48.26 40.64 90)
 			(effects
@@ -5427,6 +5328,15 @@
 		)
 		(property "Description" "2.500V Precision Micropower Shunt Voltage Reference, SOT-23"
 			(at 119.38 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "LM4040D25FTA"
+			(at 119.38 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5586,15 +5496,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 166.37 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "KGM05AR51C104KH"
 			(at 166.37 110.49 0)
 			(effects
@@ -5665,15 +5566,6 @@
 		)
 		(property "Description" "Overcharge, overcurrent and overdischarge protection IC for single cell lithium-ion/polymer battery"
 			(at 170.434 34.036 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
-			(at 170.18 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5909,15 +5801,6 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 182.88 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
 			(at 182.88 44.45 0)
 			(effects
 				(font
@@ -6213,15 +6096,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 62.23 40.64 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "B1911USD-20D000114U1930"
 			(at 62.23 40.64 90)
 			(effects
@@ -6365,6 +6239,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "MCP6001T-I/OT "
+			(at 148.59 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "d1d30a4b-7bc1-4dbe-a74a-0763cc159aac")
 		)
@@ -6434,15 +6317,6 @@
 			)
 		)
 		(property "Description" "Schottky diode"
-			(at 53.34 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
 			(at 53.34 97.79 0)
 			(effects
 				(font
@@ -6872,15 +6746,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 53.34 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "TPS613222ADBVR"
 			(at 53.34 113.03 0)
 			(effects
@@ -7074,7 +6939,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom:R_0402_1005Metric_Fix"
 			(at 120.396 95.504 90)
 			(effects
 				(font
@@ -7093,6 +6958,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 119.38 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-1310KL"
 			(at 119.38 95.25 0)
 			(effects
 				(font
@@ -7163,15 +7037,6 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 48.26 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
 			(at 48.26 30.48 0)
 			(effects
 				(font
@@ -7390,15 +7255,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 152.4 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "KGM05AR51C104KH"
 			(at 152.4 93.98 90)
 			(effects
@@ -7470,15 +7326,6 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 95.25 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
 			(at 95.25 58.42 0)
 			(effects
 				(font

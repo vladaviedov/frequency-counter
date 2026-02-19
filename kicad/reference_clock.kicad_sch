@@ -6,7 +6,7 @@
 	(paper "USLetter")
 	(title_block
 		(title "Frequency Counter")
-		(date "2026-02-17")
+		(date "2026-02-18")
 		(rev "2.0-draft")
 		(company "vladaviedov.org")
 		(comment 1 "Maximum Precision (125 mHz ~ 325 MHz): 62.5 mHz")
@@ -2773,7 +2773,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom:R_0402_1005Metric_Fix"
 			(at 29.464 47.244 90)
 			(effects
 				(font
@@ -2793,6 +2793,15 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 29.21 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-071ML"
+			(at 29.21 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2870,15 +2879,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 21.59 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "KGM05AR51C104KH"
 			(at 21.59 123.19 0)
 			(effects
@@ -2947,15 +2947,6 @@
 			)
 		)
 		(property "Description" "10-stage divider and oscillator, SOT353-1"
-			(at 49.53 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
 			(at 49.53 40.64 0)
 			(effects
 				(font
@@ -3091,7 +3082,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom:R_0402_1005Metric_Fix"
 			(at 37.846 56.134 90)
 			(effects
 				(font
@@ -3110,15 +3101,6 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 36.83 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
 			(at 36.83 55.88 0)
 			(effects
 				(font
@@ -3404,15 +3386,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 97.79 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "KGM05AR51C104KH"
 			(at 97.79 62.23 0)
 			(effects
@@ -3558,15 +3531,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 69.85 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "74HC251PW,118"
 			(at 69.85 128.27 0)
 			(effects
@@ -3688,15 +3652,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 120.65 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "74VHC4040FT"
 			(at 120.65 50.8 0)
 			(effects
@@ -3789,7 +3744,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_SMD_G8-2Pin_3.2x1.5mm"
+		(property "Footprint" "Crystal:Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm_HandSoldering"
 			(at 29.21 63.5 0)
 			(effects
 				(font
@@ -3816,8 +3771,8 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/abracon-llc/ABS07-32-768KHZ-T/1236858"
-			(at 29.21 63.5 90)
+		(property "MPN" "CM315D32768HZFT"
+			(at 29.21 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4225,15 +4180,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 64.77 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "KGM05AR51C104KH"
 			(at 64.77 64.77 0)
 			(effects
@@ -4313,7 +4259,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/murata-electronics/GRM1555C1H101GA01D/3693920"
+		(property "MPN" "GRM1555C1H220JA01D"
 			(at 36.83 71.12 0)
 			(effects
 				(font
@@ -4392,7 +4338,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/murata-electronics/GRM1555C1H330GA01J/4358133"
+		(property "MPN" "GRM1555C1H220JA01D"
 			(at 21.59 71.12 0)
 			(effects
 				(font

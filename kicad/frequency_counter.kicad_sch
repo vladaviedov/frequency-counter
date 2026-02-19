@@ -6,7 +6,7 @@
 	(paper "USLetter")
 	(title_block
 		(title "Frequency Counter")
-		(date "2026-02-17")
+		(date "2026-02-18")
 		(rev "2.0-draft")
 		(company "vladaviedov.org")
 		(comment 1 "Maximum Precision (125 mHz ~ 325 MHz): 62.5 mHz")
@@ -4009,15 +4009,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 20.32 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "CON-SMA-EDGE-S"
 			(at 20.32 52.07 0)
 			(effects
@@ -4193,7 +4184,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "PushBtn"
 			(at 177.8 68.58 0)
 			(effects
 				(font
@@ -4201,7 +4192,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_E-Switch_TL3301NxxxxxG"
 			(at 177.8 72.39 0)
 			(effects
 				(font
@@ -4220,6 +4211,15 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 177.8 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "2-1977223-4 "
 			(at 177.8 72.39 0)
 			(effects
 				(font
@@ -4298,15 +4298,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 67.31 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0402JR-135K1L"
 			(at 67.31 182.88 0)
 			(effects
@@ -4377,15 +4368,6 @@
 			)
 		)
 		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 20.32 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
 			(at 20.32 27.94 0)
 			(effects
 				(font
@@ -4596,15 +4578,6 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 76.2 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
 			(at 76.2 96.52 0)
 			(effects
 				(font
@@ -4831,15 +4804,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 163.83 107.95 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "B1911UY--20D000114U1930"
 			(at 163.83 107.95 90)
 			(effects
@@ -4949,7 +4913,7 @@
 				)
 			)
 		)
-		(property "Value" "SPST"
+		(property "Value" "Rocker"
 			(at 35.56 125.73 0)
 			(effects
 				(font
@@ -5160,7 +5124,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom:R_0402_1005Metric_Fix"
 			(at 93.726 92.964 90)
 			(effects
 				(font
@@ -5179,6 +5143,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 92.71 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-074K7L"
 			(at 92.71 92.71 0)
 			(effects
 				(font
@@ -5390,15 +5363,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 179.07 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0402JR-13220RL"
 			(at 179.07 97.79 0)
 			(effects
@@ -5478,15 +5442,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 54.61 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "RC0402JR-135K1L"
 			(at 54.61 182.88 0)
 			(effects
@@ -5556,15 +5511,6 @@
 			)
 		)
 		(property "Description" "USB Power-Only 6P Type-C Receptacle connector"
-			(at 36.83 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
 			(at 36.83 168.91 0)
 			(effects
 				(font
@@ -5676,15 +5622,6 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" ""
-			(at 179.07 107.95 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MPN" "B1911NG--20D000214U1930"
 			(at 179.07 107.95 90)
 			(effects
@@ -5762,7 +5699,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/harwin-inc/S2751-46R/5250499?s=N4IgTCBcDaIJwFYwFowDY0BZkEZkDsATEAXQF8g"
+		(property "MPN" "RCWCTE"
 			(at 67.31 45.72 90)
 			(effects
 				(font
@@ -5811,7 +5748,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom:R_0402_1005Metric_Fix"
 			(at 105.156 92.964 90)
 			(effects
 				(font
@@ -5830,6 +5767,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 104.14 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-074K7L"
 			(at 104.14 92.71 0)
 			(effects
 				(font
@@ -6042,7 +5988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "https://www.digikey.com/en/products/detail/harwin-inc/S2751-46R/5250499?s=N4IgTCBcDaIJwFYwFowDY0BZkEZkDsATEAXQF8g"
+		(property "MPN" "RCWCTE"
 			(at 16.51 127 0)
 			(effects
 				(font
@@ -6110,15 +6056,6 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 163.83 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
 			(at 163.83 97.79 0)
 			(effects
 				(font
@@ -6311,7 +6248,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.5sqmm_1x02_P4.6mm_D0.9mm_OD2.1mm"
+		(property "Footprint" "Connector_JST:JST_ZH_B2B-ZR_1x02_P1.50mm_Vertical"
 			(at 26.67 138.176 90)
 			(effects
 				(font
@@ -6330,15 +6267,6 @@
 			)
 		)
 		(property "Description" "Single-cell battery"
-			(at 26.67 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" "Generic"
 			(at 26.67 139.7 0)
 			(effects
 				(font
@@ -6407,7 +6335,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_SPST"
+		(property "Value" "PushBtn"
 			(at 177.8 78.74 0)
 			(effects
 				(font
@@ -6415,7 +6343,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_E-Switch_TL3301NxxxxxG"
 			(at 177.8 82.55 0)
 			(effects
 				(font
@@ -6434,6 +6362,15 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
+			(at 177.8 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "2-1977223-4 "
 			(at 177.8 82.55 0)
 			(effects
 				(font
@@ -6832,15 +6769,6 @@
 			)
 		)
 		(property "Description" "Two-piece EMI RF shielding cabinet"
-			(at 233.68 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" ""
 			(at 233.68 102.87 0)
 			(effects
 				(font
