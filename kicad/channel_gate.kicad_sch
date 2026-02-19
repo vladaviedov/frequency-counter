@@ -6,8 +6,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "Frequency Counter")
-		(date "2026-02-18")
-		(rev "2.0-draft")
+		(date "2026-02-19")
+		(rev "2.0")
 		(company "vladaviedov.org")
 		(comment 1 "Maximum Precision (125 mHz ~ 325 MHz): 62.5 mHz")
 		(comment 2 "Frequency Range: 62.5 mHz - 325 MHz")
@@ -5780,7 +5780,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Custom:TestPoint_Pad_2.0x2.0mm_Fix"
+		(property "Footprint" "Custom:TestPoint_KOA_RCW"
 			(at 190.5 49.53 0)
 			(effects
 				(font
