@@ -4617,7 +4617,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4b59e7a3-6fca-4775-8bbd-312b1fe994c5")
-		(property "Reference" "H102"
+		(property "Reference" "H105"
 			(at 218.44 152.3999 0)
 			(effects
 				(font
@@ -4668,7 +4668,7 @@
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26"
-					(reference "H102")
+					(reference "H105")
 					(unit 1)
 				)
 			)
@@ -4838,7 +4838,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59366ffb-a819-47ff-9237-d66e38a09453")
-		(property "Reference" "H105"
+		(property "Reference" "H103"
 			(at 243.84 130.8099 0)
 			(effects
 				(font
@@ -4889,7 +4889,7 @@
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26"
-					(reference "H105")
+					(reference "H103")
 					(unit 1)
 				)
 			)
@@ -4973,7 +4973,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c1d07e7-4ca2-4243-9a31-01df64da9057")
-		(property "Reference" "H104"
+		(property "Reference" "H106"
 			(at 231.14 152.3999 0)
 			(effects
 				(font
@@ -5024,7 +5024,7 @@
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26"
-					(reference "H104")
+					(reference "H106")
 					(unit 1)
 				)
 			)
@@ -5251,7 +5251,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89fcb525-37be-4c50-9eaf-f9bb73d76328")
-		(property "Reference" "H106"
+		(property "Reference" "H107"
 			(at 243.84 152.3999 0)
 			(effects
 				(font
@@ -5302,7 +5302,7 @@
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26"
-					(reference "H106")
+					(reference "H107")
 					(unit 1)
 				)
 			)
@@ -5876,7 +5876,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a74f24f8-1acf-400d-a5c4-0fa7ba45707a")
-		(property "Reference" "H107"
+		(property "Reference" "H104"
 			(at 256.54 130.8099 0)
 			(effects
 				(font
@@ -5927,7 +5927,7 @@
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26"
-					(reference "H107")
+					(reference "H104")
 					(unit 1)
 				)
 			)
@@ -6098,7 +6098,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1c1a303-1d29-4c2e-85ba-4bdf582d99e9")
-		(property "Reference" "H103"
+		(property "Reference" "H102"
 			(at 231.14 130.8099 0)
 			(effects
 				(font
@@ -6149,7 +6149,7 @@
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26"
-					(reference "H103")
+					(reference "H102")
 					(unit 1)
 				)
 			)

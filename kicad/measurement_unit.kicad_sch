@@ -2984,7 +2984,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "38074d8d-3e05-49fd-b44f-dc63cfeb77f9")
-		(property "Reference" "U503"
+		(property "Reference" "U502"
 			(at 101.2033 30.48 0)
 			(effects
 				(font
@@ -3089,7 +3089,7 @@
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/f4b454df-c822-4d38-8ba5-078288da05c0"
-					(reference "U503")
+					(reference "U502")
 					(unit 1)
 				)
 			)
@@ -3105,7 +3105,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "61b1bec3-ae48-4923-9aa1-4c9ec5c826e1")
-		(property "Reference" "U502"
+		(property "Reference" "U503"
 			(at 49.1333 92.71 0)
 			(effects
 				(font
@@ -3210,7 +3210,7 @@
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/f4b454df-c822-4d38-8ba5-078288da05c0"
-					(reference "U502")
+					(reference "U503")
 					(unit 1)
 				)
 			)
