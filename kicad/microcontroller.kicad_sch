@@ -2381,7 +2381,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "16b66af7-f259-4397-a249-356f35b350dd")
-		(property "Reference" "J601"
+		(property "Reference" "J701"
 			(at 199.39 48.2599 0)
 			(effects
 				(font
@@ -2447,7 +2447,7 @@
 		(instances
 			(project ""
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/2a521c09-f149-46cd-82ca-3e519b54aa9b"
-					(reference "J601")
+					(reference "J701")
 					(unit 1)
 				)
 			)
@@ -2463,7 +2463,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "245dd2f7-8544-4e86-b218-0228a280abe2")
-		(property "Reference" "R605"
+		(property "Reference" "R705"
 			(at 162.56 45.7199 0)
 			(effects
 				(font
@@ -2526,7 +2526,7 @@
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/2a521c09-f149-46cd-82ca-3e519b54aa9b"
-					(reference "R605")
+					(reference "R705")
 					(unit 1)
 				)
 			)
@@ -2542,7 +2542,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e259a70-df4e-44ae-89e4-097e4e0d7256")
-		(property "Reference" "R602"
+		(property "Reference" "R702"
 			(at 105.41 72.3899 0)
 			(effects
 				(font
@@ -2605,7 +2605,7 @@
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/2a521c09-f149-46cd-82ca-3e519b54aa9b"
-					(reference "R602")
+					(reference "R702")
 					(unit 1)
 				)
 			)
@@ -2621,7 +2621,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45852a29-310a-47aa-a8f8-920b15dbbe84")
-		(property "Reference" "#PWR0601"
+		(property "Reference" "#PWR0701"
 			(at 21.59 50.8 0)
 			(effects
 				(font
@@ -2671,7 +2671,7 @@
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/2a521c09-f149-46cd-82ca-3e519b54aa9b"
-					(reference "#PWR0601")
+					(reference "#PWR0701")
 					(unit 1)
 				)
 			)
@@ -2687,7 +2687,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46e433e4-8c0c-4d96-896a-a93b06d26138")
-		(property "Reference" "#PWR0603"
+		(property "Reference" "#PWR0703"
 			(at 46.99 106.68 0)
 			(effects
 				(font
@@ -2737,7 +2737,7 @@
 		(instances
 			(project ""
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/2a521c09-f149-46cd-82ca-3e519b54aa9b"
-					(reference "#PWR0603")
+					(reference "#PWR0703")
 					(unit 1)
 				)
 			)
@@ -2753,7 +2753,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "51d0441b-9fb1-45ba-98d0-347f6fdbcc2b")
-		(property "Reference" "CD601"
+		(property "Reference" "CD701"
 			(at 25.4 36.8299 0)
 			(effects
 				(font
@@ -2816,7 +2816,7 @@
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/2a521c09-f149-46cd-82ca-3e519b54aa9b"
-					(reference "CD601")
+					(reference "CD701")
 					(unit 1)
 				)
 			)
@@ -2832,7 +2832,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5aa955b3-fdd7-4c44-9d49-8e91d8603fb5")
-		(property "Reference" "#PWR0602"
+		(property "Reference" "#PWR0702"
 			(at 46.99 30.48 0)
 			(effects
 				(font
@@ -2882,7 +2882,7 @@
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/2a521c09-f149-46cd-82ca-3e519b54aa9b"
-					(reference "#PWR0602")
+					(reference "#PWR0702")
 					(unit 1)
 				)
 			)
@@ -2898,7 +2898,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "616016c7-59c3-493b-ae60-60cd3d9f0053")
-		(property "Reference" "R603"
+		(property "Reference" "R703"
 			(at 119.38 72.3899 0)
 			(effects
 				(font
@@ -2961,7 +2961,7 @@
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/2a521c09-f149-46cd-82ca-3e519b54aa9b"
-					(reference "R603")
+					(reference "R703")
 					(unit 1)
 				)
 			)
@@ -2977,7 +2977,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "63369e97-fe3b-49a1-9c7f-1b8a8ee9474c")
-		(property "Reference" "#PWR0604"
+		(property "Reference" "#PWR0704"
 			(at 193.04 31.75 0)
 			(effects
 				(font
@@ -3027,7 +3027,7 @@
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/2a521c09-f149-46cd-82ca-3e519b54aa9b"
-					(reference "#PWR0604")
+					(reference "#PWR0704")
 					(unit 1)
 				)
 			)
@@ -3043,7 +3043,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79737bc6-2527-4f72-8a88-6cc4dbe688e6")
-		(property "Reference" "R601"
+		(property "Reference" "R701"
 			(at 83.82 71.12 90)
 			(effects
 				(font
@@ -3104,7 +3104,7 @@
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/2a521c09-f149-46cd-82ca-3e519b54aa9b"
-					(reference "R601")
+					(reference "R701")
 					(unit 1)
 				)
 			)
@@ -3120,7 +3120,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e597654-2391-4a6b-8968-bffdda3abf75")
-		(property "Reference" "#PWR0605"
+		(property "Reference" "#PWR0705"
 			(at 193.04 69.85 0)
 			(effects
 				(font
@@ -3170,7 +3170,7 @@
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/2a521c09-f149-46cd-82ca-3e519b54aa9b"
-					(reference "#PWR0605")
+					(reference "#PWR0705")
 					(unit 1)
 				)
 			)
@@ -3186,7 +3186,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a0400a35-61fa-4403-969d-6018d78e16be")
-		(property "Reference" "R604"
+		(property "Reference" "R704"
 			(at 151.13 40.6399 0)
 			(effects
 				(font
@@ -3249,7 +3249,7 @@
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/2a521c09-f149-46cd-82ca-3e519b54aa9b"
-					(reference "R604")
+					(reference "R704")
 					(unit 1)
 				)
 			)
@@ -3265,7 +3265,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2bf92e3-4304-45e0-bb61-60ff6f23fa27")
-		(property "Reference" "U601"
+		(property "Reference" "U701"
 			(at 33.02 63.4999 0)
 			(effects
 				(font
@@ -3383,7 +3383,7 @@
 		(instances
 			(project ""
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/2a521c09-f149-46cd-82ca-3e519b54aa9b"
-					(reference "U601")
+					(reference "U701")
 					(unit 1)
 				)
 			)
@@ -3399,7 +3399,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca3d069c-d293-4c12-b6a8-10e0a68a574d")
-		(property "Reference" "D601"
+		(property "Reference" "D701"
 			(at 163.83 37.1474 90)
 			(effects
 				(font
@@ -3471,7 +3471,7 @@
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/2a521c09-f149-46cd-82ca-3e519b54aa9b"
-					(reference "D601")
+					(reference "D701")
 					(unit 1)
 				)
 			)

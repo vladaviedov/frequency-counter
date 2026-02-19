@@ -2834,7 +2834,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c9f79cd-a8ff-4014-a714-b72142099934")
-		(property "Reference" "CD301"
+		(property "Reference" "CD303"
 			(at 25.4 121.9199 0)
 			(effects
 				(font
@@ -2897,7 +2897,7 @@
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/ad3ea9b5-9e07-4330-8c93-7bb022b6949a"
-					(reference "CD301")
+					(reference "CD303")
 					(unit 1)
 				)
 			)
@@ -3341,7 +3341,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "60daa472-ebff-4c9a-be94-8d96188eb6ee")
-		(property "Reference" "CD303"
+		(property "Reference" "CD302"
 			(at 101.6 60.9599 0)
 			(effects
 				(font
@@ -3404,7 +3404,7 @@
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/ad3ea9b5-9e07-4330-8c93-7bb022b6949a"
-					(reference "CD303")
+					(reference "CD302")
 					(unit 1)
 				)
 			)
@@ -3486,7 +3486,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7215d019-ec37-4c9f-acb5-c8bf28c7550d")
-		(property "Reference" "U302"
+		(property "Reference" "U303"
 			(at 71.9933 105.41 0)
 			(effects
 				(font
@@ -3591,7 +3591,7 @@
 		(instances
 			(project ""
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/ad3ea9b5-9e07-4330-8c93-7bb022b6949a"
-					(reference "U302")
+					(reference "U303")
 					(unit 1)
 				)
 			)
@@ -3607,7 +3607,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8acf4e94-b82f-4f64-9752-3f28142a43ba")
-		(property "Reference" "U303"
+		(property "Reference" "U302"
 			(at 122.7933 30.48 0)
 			(effects
 				(font
@@ -3712,7 +3712,7 @@
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/ad3ea9b5-9e07-4330-8c93-7bb022b6949a"
-					(reference "U303")
+					(reference "U302")
 					(unit 1)
 				)
 			)
@@ -4135,7 +4135,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c123901b-a225-476a-91d7-8284e2b9771b")
-		(property "Reference" "CD302"
+		(property "Reference" "CD301"
 			(at 68.58 63.4999 0)
 			(effects
 				(font
@@ -4198,7 +4198,7 @@
 		(instances
 			(project "frequency_counter"
 				(path "/62339e8b-4e00-440f-8d81-4472a4f50c26/ad3ea9b5-9e07-4330-8c93-7bb022b6949a"
-					(reference "CD302")
+					(reference "CD301")
 					(unit 1)
 				)
 			)
